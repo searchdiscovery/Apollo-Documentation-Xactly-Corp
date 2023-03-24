@@ -23,6 +23,8 @@ dataLayer.push({
 |event_data.form_name|string|Name of the form|webinar, download white paper, request demo|||||||
 |event_data.form_type|string|Type of Form|lead\_gen, contact|||||||
 
+## Attached Notes
 
-
-
+<p>This snippet will fire if the form component enters the user's viewport. This will only fire one time on the page.</p>
+<p>&nbsp;</p>
+<p><img title="Form" src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/form.png?raw=true" alt="" /></p>

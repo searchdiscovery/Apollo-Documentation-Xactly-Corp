@@ -25,6 +25,8 @@ dataLayer.push({
 |event_data.form_name|string|Name of the form|webinar, download white paper, request demo|||||||
 |event_data.form_type|string|Type of form viewed||||||||
 
+## Attached Notes
 
-
-
+<p>This snippet will fire if the user submits the form with an error.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img title="Form" src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/form.png?raw=true" alt="" /></p>

@@ -33,6 +33,8 @@ dataLayer.push({
 |event_data.outbound|boolean|Whether the link leads to a different domain or not. \(boolean\)|false|||||||
 |event_data.region_ancestry|string|Captures the name or ID of the region within which navigation links are used.|Top Nav, Footer Nav, Hero, Recommended, Also Shopped, Also Bought|||||||
 
+## Attached Notes
 
-
-
+<p>This snippet will fire when the user clicks on the main navigation or the sub navigation tabs.</p>
+<p>&nbsp;</p>
+<p><img title="main_navigation" src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/main_navigation.png?raw=true" alt="" /></p>
