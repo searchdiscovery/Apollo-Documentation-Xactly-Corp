@@ -31,6 +31,8 @@ dataLayer.push({
 |event_data.link_url|string|Captures the site destination of the navigation links used.|https:\/\/www.example.com|||||||
 |event_data.outbound|boolean|Whether the link leads to a different domain or not. \(boolean\)|false|||||||
 
+## Attached Notes
 
-
-
+<p>Add the code snippet below such that it executes when a callout is clicked.</p>
+<p>&nbsp;</p>
+<p><img title="Callout Tracking" src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/visual_cta_1.png?raw=true" alt="" /></p>
