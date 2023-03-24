@@ -37,6 +37,8 @@ dataLayer.push({
 |event_data.outbound|boolean|Whether the link leads to a different domain or not. \(boolean\)|false|||||||
 |event_data.region_ancestry|string|Captures the name or ID of the region within which download links are used.|Top Nav, Footer Nav, Hero, Recommended, Also Shopped, Also Bought|||||||
 
+## Attached Notes
 
-
-
+<p>Fire snippet when any downloadable link is click. These are links that are decorated with file extensions</p>
+<p>&nbsp;</p>
+<p><img src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/download.png?raw=true" alt="" /></p>
