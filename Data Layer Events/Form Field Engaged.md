@@ -25,6 +25,8 @@ dataLayer.push({
 |event_data.form_name|string|Name of the form|webinar, download white paper, request demo|||||||
 |event_data.form_type|string|Type of form viewed||||||||
 
+## Attached Notes
 
-
-
+<p>Fire this snippet when a user engages in any form field. This will only fire one time on the change of the field. This doesn't need to fire if the user makes an edit to field.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://github.com/searchdiscovery/Apollo-Documentation-Xactly-Corp/blob/main/Images/form.png?raw=true" alt="" /></p>
