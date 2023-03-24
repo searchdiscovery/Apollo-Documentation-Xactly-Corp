@@ -33,6 +33,7 @@ dataLayer.push({
 |page_data.site_section|string|The section of the site that the current page resides in. site\_section2 through site\_section5can also be used if the site has many sections.||||||||
 |page_data.site_section2|string|Captures the sub-section of the site where the page being viewed is located|Shop &gt; Kids, Shop &gt; Mens, Shop &gt; Womens|||||||
 
+## Attached Notes
 
-
-
+<p>This snippet will load at the beginning on the page and contain all the information about the page</p>
+<p>Page Load Started &gt; Page Load Completed</p>
